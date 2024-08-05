@@ -49,18 +49,21 @@ pip install -r requirements.txt
 ```
 4. Configure o banco de dados (SQLite por padrão):
 ```
+python manage.py migrate
 ```
 5. Crie um superusuário para acessar o admin:
 ```
+python manage.py createsuperuser
 ```
 6. Inicie o servidor de desenvolvimento:
 ```
+python manage.py runserver
 ```
 Acesse o projeto em http://127.0.0.1:8000.
 
-Estrutura do Projeto
-backend_django/: Diretório do projeto Django contendo as configurações e URLs principais.
-app/: Diretório da aplicação principal contendo os modelos, visualizações, URLs e lógica de negócios.
+## Estrutura do Projeto
+- backend_django/: Diretório do projeto Django contendo as configurações e URLs principais.
+* app/: Diretório da aplicação principal contendo os modelos, visualizações, URLs e lógica de negócios.
 manage.py: Script de linha de comando para interagir com o projeto Django.
 requirements.txt: Arquivo de dependências Python necessárias para o projeto.
 README.md: Este arquivo de documentação.
@@ -82,8 +85,8 @@ GitHub: https://github.com/marcosmoraisjr
 
 3. Salve o arquivo como `README.md` no diretório raiz do seu projeto.
 4. Adicione o arquivo ao repositório Git, faça commit e push:
-```bash
-   git add README.md
-   git commit -m "Adiciona README estruturado"
-   git push origin main
+```
+git add README.md
+git commit -m "Adiciona README estruturado"
+git push origin main
 ```
