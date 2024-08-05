@@ -63,26 +63,26 @@ Acesse o projeto em http://127.0.0.1:8000.
 
 ## Estrutura do Projeto
 - backend_django/: Diretório do projeto Django contendo as configurações e URLs principais.
-* app/: Diretório da aplicação principal contendo os modelos, visualizações, URLs e lógica de negócios.
-manage.py: Script de linha de comando para interagir com o projeto Django.
-requirements.txt: Arquivo de dependências Python necessárias para o projeto.
-README.md: Este arquivo de documentação.
+- app/: Diretório da aplicação principal contendo os modelos, visualizações, URLs e lógica de negócios.
+- manage.py: Script de linha de comando para interagir com o projeto Django.
+- requirements.txt: Arquivo de dependências Python necessárias para o projeto.
+- README.md: Este arquivo de documentação.
 .gitignore: Arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git.
-Como Contribuir
-Faça um fork do projeto.
-Crie uma branch para sua feature (git checkout -b feature/nova-feature).
-Faça commit das suas alterações (git commit -am 'Adiciona nova feature').
-Faça push para a branch (git push origin feature/nova-feature).
-Crie um novo Pull Request.
-Licença
+
+## Como Contribuir
+1. Faça um fork do projeto.
+2. Crie uma branch para sua feature (git checkout -b feature/nova-feature).
+3. Faça commit das suas alterações (git commit -am 'Adiciona nova feature').
+4. Faça push para a branch (git push origin feature/nova-feature).
+5. Crie um novo Pull Request.
+
+## Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Contato
-Marcos Morais - marcosmoraisjr@gmail.com
-
-GitHub: https://github.com/marcosmoraisjr
+## Contato
+- Marcos Morais - marcosmoraisjr@gmail.com
+- GitHub: https://github.com/marcosmoraisjr
 ```
-
 3. Salve o arquivo como `README.md` no diretório raiz do seu projeto.
 4. Adicione o arquivo ao repositório Git, faça commit e push:
 ```
