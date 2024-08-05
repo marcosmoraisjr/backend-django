@@ -33,12 +33,12 @@ backend-django/
 ├── comandosgit.txt
 └── .README.MB
 ```
-## Configuração do Ambiente
-# Requisitos
+# Configuração do Ambiente
+## Requisitos
 - Python 3.8+
 - Django 3.x.x
 - Virtualenv
-# Passos para Configuração
+## Passos para Configuração
 1. Clone o repositório:
 ```
 git clone https://github.com/marcosmoraisjr/backend-django.git
