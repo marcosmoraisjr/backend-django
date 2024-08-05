@@ -82,11 +82,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 ## Contato
 - Marcos Morais - marcosmoraisjr@gmail.com
 - GitHub: https://github.com/marcosmoraisjr
-```
-3. Salve o arquivo como `README.md` no diretório raiz do seu projeto.
-4. Adicione o arquivo ao repositório Git, faça commit e push:
-```
-git add README.md
-git commit -m "Adiciona README estruturado"
-git push origin main
-```
+
