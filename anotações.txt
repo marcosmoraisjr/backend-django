@@ -7,7 +7,7 @@ md d:\Dev\Python\backend-django
 python -m venv venv
 
 #3. Ativar o ambiente virtual:
-.\venv\Scripts\activate
+.\venv\Scripts\activate     #desativar é 
 
 #4. Instalar Django:
 pip install django
@@ -57,5 +57,6 @@ Arquivo "settings.py":
 
 ## iniciando a aplicaçação
     - Rodar o servidor de desenvolvimento:
+    - em (venv) PS D:\Dev\Python\cepedi\backend-django\restful01> ...
     python manage.py runserver
 

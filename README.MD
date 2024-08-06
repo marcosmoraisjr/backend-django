@@ -6,12 +6,12 @@ Este é o repositório do projeto backend desenvolvido em Django para a CEPEDI.
 
 ```plaintext
 backend-django/
-├── backend_django/
+├── restfull01/
 │   ├── __init__.py
+│   ├── asgi.py
 │   ├── settings.py
 │   ├── urls.py
 │   ├── wsgi.py
-│   ├── asgi.py
 │   ├── ...
 ├── app/
 │   ├── migrations/
@@ -23,9 +23,15 @@ backend-django/
 │   ├── views.py
 │   ├── ...
 ├── manage.py
+├── db.saqlite3
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+├── venv\
+├── .gitignore
+├── requerimentos.txt
+├── anotações.txt
+├── comandosgit.txt
+└── .README.MB
 ```
 ## Configuração do Ambiente
 # Requisitos

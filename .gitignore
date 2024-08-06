@@ -12,7 +12,6 @@ venv/
 db.sqlite3
 media/
 
-
 #outros
 *.pyc
 *.pyo
