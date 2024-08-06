@@ -57,6 +57,7 @@ python manage.py createsuperuser
 ```
 6. Inicie o servidor de desenvolvimento:
 ```
+cd .\restful01\
 python manage.py runserver
 ```
 Acesse o projeto em http://127.0.0.1:8000.
@@ -67,7 +68,7 @@ Acesse o projeto em http://127.0.0.1:8000.
 - manage.py: Script de linha de comando para interagir com o projeto Django.
 - requirements.txt: Arquivo de dependências Python necessárias para o projeto.
 - README.md: Este arquivo de documentação.
-.gitignore: Arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git.
+- .gitignore: Arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git.
 
 ## Como Contribuir
 1. Faça um fork do projeto.
